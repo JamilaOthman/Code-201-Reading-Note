@@ -19,7 +19,7 @@
 * Referencing #
 * contact attachment.
 * using emoji.
-# # Structure web pages with HTML
+# Structure web pages with HTML
 ##  **HTML & CSS** 
 ### Process & Design
 There are many questions that you should ask yourself before creating a web page:
