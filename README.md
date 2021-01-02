@@ -6,18 +6,4 @@
 
 Topic         | URL
 ---------     |--------
-- introduction|[read1](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/read1.md) 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+ introduction|[read1](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/read1.md) 
