@@ -84,7 +84,5 @@ MORE VALUES TO RETURN A
 SINGLE VALUE.
 ## operators allow programmers to create a single value from one or more values(+,-,/,*,++,==,%).
 ### There is just one string operator: the+ symbol it is used to join the strings on either side of it.
-#Functions let you group a series of statements together to perform a
-specific task.
-How to crteate , declaring function?
+# Functions let you group a series of statements together to perform a specific task.
 
