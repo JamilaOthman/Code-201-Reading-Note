@@ -6,15 +6,9 @@
 
 Topic         | URL
 ---------     |--------
-<<<<<<< HEAD
  class01      |[read1](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/read1.md) 
 class02       |[read2](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-02.md)
-class03       |[read3]()
-=======
-class1       |[read1](https://jamilaothman.github.io/Code-201-Reading-Note/class-01) 
-class2        |[read2](https://jamilaothman.github.io/Code-201-Reading-Note/class-02)
-read3         |
->>>>>>> 1a1dcdea4368020a40c6cf66ee288d8ebb2c6cc2
+class03       |[read3](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-03.md)        
 read4         |
 read5         |
 read6         |
