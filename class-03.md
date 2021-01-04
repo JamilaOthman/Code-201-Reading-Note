@@ -34,5 +34,5 @@ option if none match).
 * Data types can be coerced from one type to another.
 * All values evaluate to either truthy or falsy.
 * There are three types of loop: for, while, and
-do  while. Each repeats a set of statements. 
+do while. Each repeats a set of statements. 
 
