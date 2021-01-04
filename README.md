@@ -6,8 +6,8 @@
 
 Topic         | URL
 ---------     |--------
- class1       |[read1](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/read1.md) 
-class2        |[read2](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-02.md)
+class1       |[read1](https://jamilaothman.github.io/Code-201-Reading-Note/class-01) 
+class2        |[read2](https://jamilaothman.github.io/Code-201-Reading-Note/class-02)
 read3         |
 read4         |
 read5         |
