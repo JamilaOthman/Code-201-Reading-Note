@@ -6,10 +6,10 @@
 
 Topic         | URL
 ---------     |--------
- class01      |[read1](https://jamilaothman.github.io/Code-201-Reading-Note/class-01) 
-class02       |[read2](https://jamilaothman.github.io/Code-201-Reading-Note/class-02)
-class03       |[read3](https://jamilaothman.github.io/Code-201-Reading-Note/class-03)        
-class04       |[read4](https://jamilaothman.github.io/Code-201-Reading-Note/class-04)
+ class01      |[read1](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/read1.md) 
+class02       |[read2](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-02.md)
+class03       |[read3](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-03.md)        
+class04       |[read4](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-04.md)
 read5         |
 read6         |
 read7         |
