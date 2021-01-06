@@ -10,7 +10,7 @@ Topic         | URL
 class02       |[read2](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-02.md)
 class03       |[read3](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-03.md)        
 class04       |[read4](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-04.md)
-read5         |
+class05       |[read5](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-05.md)
 read6         |
 read7         |
 read8         |
