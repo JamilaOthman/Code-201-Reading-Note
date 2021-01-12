@@ -14,7 +14,7 @@ class05       |[read5](https://github.com/JamilaOthman/Code-201-Reading-Note/blo
 class06       |[read6](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-06.md)
 class07       |[read7](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-07.md)
 class08       |[read8](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-08.md)
-read9         |
+class09       |[read9](https://github.com/JamilaOthman/Code-201-Reading-Note/blob/main/class-09.md)
 read10        |
 read11        |
 read12        |
